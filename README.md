@@ -1,1 +1,7 @@
-# Novartis_back
+# Launch the API
+
+### Build
+`` ./gradlew build ``  
+
+### Run 
+`` ./gradlew bootRun``
